@@ -1,0 +1,8 @@
+﻿{
+  "livingDocGenerator": {
+    "enabled": true,
+    "filepath": "TestExecution.json"
+  },
+  "allowDebugGeneratedFiles": true,
+  "traceSuccessfulSteps": true
+}
